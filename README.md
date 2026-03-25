@@ -20,3 +20,6 @@ If successful, a patched file will be created:
 ```bash
 patched_<original_filename>
 ```
+## Warning
+
+Flashing a modified BIOS can brick a device. Use at your own risk.
